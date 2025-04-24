@@ -65,5 +65,5 @@ Brings theory into practice by refactoring a full EDA workflow into functions an
 
 Special thanks to Corey Schafer for his excellent Python OOP tutorials, which inspired much of the content structure and examples in this repository:
 
-[Corey Schafer OOP Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+[Corey Schafer OOP Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
